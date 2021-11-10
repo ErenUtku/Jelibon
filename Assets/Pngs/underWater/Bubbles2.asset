@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1de26d982a8538040a3f3cab70daa965, type: 3}
+  m_Name: Bubbles2
+  m_EditorClassIdentifier: 
+  waypoints: {fileID: 2079125112346088538, guid: 7107ad5ffd0cfc34282a497f70fd23db,
+    type: 3}
+  CloudPic: {fileID: 773807537823134001, guid: 89485e5af4a830547a9172d461cc03ef, type: 3}
+  movement: 5
+  timeBetweenSpawn: 2

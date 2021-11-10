@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1de26d982a8538040a3f3cab70daa965, type: 3}
+  m_Name: Fish2
+  m_EditorClassIdentifier: 
+  waypoints: {fileID: 8637634109110528256, guid: 8543f6e0e41330a44bfeb5f1b466c981,
+    type: 3}
+  CloudPic: {fileID: 3394748649014182233, guid: f0a55703c09c10a45b34ebe8ec0bab0f,
+    type: 3}
+  movement: 5
+  timeBetweenSpawn: 1
